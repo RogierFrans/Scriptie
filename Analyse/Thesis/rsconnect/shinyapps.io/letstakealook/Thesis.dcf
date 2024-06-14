@@ -1,0 +1,13 @@
+name: Thesis
+title: Thesis
+username: letstakealook
+account: letstakealook
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12173012
+bundleId: 8734274
+url: https://letstakealook.shinyapps.io/Thesis/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R|final_boost_fit_price.rds|final_knn_fit.rds|final_lasso_fit_pass.rds|websites_data.csv
