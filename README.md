@@ -1,7 +1,7 @@
-# Hello, Interesting Person!
+# Hello,
 
 Welcome to my repository for my thesis! the main result of my thesis is a cookie paywall tool designed for managers.  With this app, you can check if your website's characteristics match those of sites that already use a pay-or-okay cookiewall. Plus, it estimates a competitive price for you.
-Besides the tool all the data analytics I have done for my [research](link) can also be seen here
+Besides the tool all the data analytics I have done for my [research](https://rogierfransen.com/assets/documents/Thesis_Rogier_Fransen_BAM.pdf) can also be seen here
 
 <div style="text-align:center;">
   <a href="https://bamthesis2024rff.shinyapps.io/Thesis_Rogier/" style="display:inline-block; background-color:#007BFF; color:#FFFFFF; padding:15px 25px; text-align:center; text-decoration:none; font-size:16px; border-radius:5px;">Go to the App</a>
@@ -18,7 +18,7 @@ Want to dive deeper? Check out this article: [Tweakers News (Dutch)](https://twe
 
 ## Where Can I Read the Research Behind the Application?
 
-You can find all the details and the research behind this app here: [Link to my site]
+You can find all the details and the research behind this app here: [Link to my site](https://rogierfransen.com/assets/documents/Thesis_Rogier_Fransen_BAM.pdf)
 
 ---
 
