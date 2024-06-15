@@ -5,7 +5,7 @@ account: bamthesis2024rff
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 12178145
-bundleId: 8738842
+bundleId: 8745686
 url: https://bamthesis2024rff.shinyapps.io/Thesis_Rogier/
 version: 1
 asMultiple: FALSE

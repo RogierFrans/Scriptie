@@ -30,7 +30,8 @@ ui <- fluidPage(
                   value = 0.5,
                   step = 0.1),
       textInput("email", "Enter Your Email (Optional)"),
-      actionButton("predict", "Predict")
+      actionButton("predict", "Predict"),
+      tags$a(href = "https://github.com/RogierFrans/Scriptie", "More information on the GitHub Repository", target = "_blank")
     ),
     mainPanel(
       uiOutput("results_ui"),
